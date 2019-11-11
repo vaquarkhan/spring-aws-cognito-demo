@@ -11,3 +11,6 @@ Demo application to show how to use spring with Amazon Cognito
 3. Login to cognito and get redirected back with authorization code
 4. Use authorization code to get token by sending GET request to /auth/token?code={code}
 5. Add 'Authorization' header with value 'Bearer {id_token} to access restricted endpoints.
+
+
+- https://gofore.com/en/spring-boot/
